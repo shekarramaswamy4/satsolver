@@ -9,6 +9,7 @@ Takes in a formula, which is represented by a list of clauses. One clause per li
 To finish inputting, CTRL-D. The program will then output two lines: the first being the list of true literals, second being the list of false literals.
 
 Examples:
+
 To evaluate (1 and -1):
 1 [enter]
 -1 [enter]
@@ -22,5 +23,6 @@ To evaluate ((-1 or 2) and (2 or 3)):
 ctrl-d
 ------
 2 3
+
 -1
 
